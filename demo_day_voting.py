@@ -21,12 +21,13 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-# TODO: впиши назви проєктів своєї групи (у порядку виступів).
 PROJECTS = [
-    "StudySnap",
-    "Проєкт 2",
-    "Проєкт 3",
-    "Проєкт 4",
+    "CodeGame",
+    "AI Project Architect",
+    "EduCasino: Ultimate Edition",
+    "Конвентер валют",
+    "ХРОМ - Cyber HUD",
+    "Streamlit Online Casino"
 ]
 
 NOMINATIONS = [
