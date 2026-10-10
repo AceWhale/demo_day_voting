@@ -107,7 +107,7 @@ with tab_results:
                 winner = counts.iloc[0]
                 st.subheader(f"{nomination}: {winner['Проєкт']}")
                 fig = px.bar(counts, x="Проєкт", y="Голоси")
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, use_container_width=True, key=f"chart_{nomination}")
             if st.button("🗑️ Очистити всі голоси"):
                 save_data([])
                 st.rerun()
