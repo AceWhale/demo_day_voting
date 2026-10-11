@@ -22,11 +22,13 @@ import plotly.express as px
 import streamlit as st
 
 PROJECTS = [
-    "Horse Help",
-    "LuxChange",
-    "MathBOT",
-    "GameMatch",
-    "AI - Lingo"
+    "Бабе Царство",
+    "SmartChef AI",
+    "Слепой.com",
+    "ООО.*минусБаланс*",
+    "Недо 7 Zip",
+    "Покет Мани",
+    "TypeForge AI"
 ]
 
 NOMINATIONS = [
