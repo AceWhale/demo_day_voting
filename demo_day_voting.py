@@ -22,13 +22,11 @@ import plotly.express as px
 import streamlit as st
 
 PROJECTS = [
-    "Video Editor",
-    "StudyBuddy",
-    "AI Study Helper",
-    "ЧистеФото",
-    "HelpAI",
-    "FloodSnap AI",
-    "Good Photo Editor",
+    "Horse Help",
+    "LuxChange",
+    "MathBOT",
+    "GameMatch",
+    "AI - Lingo"
 ]
 
 NOMINATIONS = [
