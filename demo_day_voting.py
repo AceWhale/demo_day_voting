@@ -22,18 +22,18 @@ import plotly.express as px
 import streamlit as st
 
 PROJECTS = [
-    "Бабе Царство",
-    "SmartChef AI",
-    "Слепой.com",
-    "ООО.*минусБаланс*",
-    "Недо 7 Zip",
-    "Покет Мани",
-    "TypeForge AI"
+    "Фотки от ИИ",
+    "AI Creative Studio",
+    "Arcadia",
+    "StudyPlanner",
+    "Одна ночь в мультипространственном временном континууме",
+    "VibeCaption AI",
+    "ReSolve"
 ]
 
 NOMINATIONS = [
     "Найкращий UX",
-    "Найсильніша AI-функція",
+    "Найсильніша функція/AI-функція",
     "Найкреативніша ідея",
     "Найкращий MVP",
 ]
