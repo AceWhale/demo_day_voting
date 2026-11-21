@@ -22,13 +22,14 @@ import plotly.express as px
 import streamlit as st
 
 PROJECTS = [
-    "Фотки от ИИ",
-    "AI Creative Studio",
-    "Arcadia",
-    "StudyPlanner",
-    "Одна ночь в мультипространственном временном континууме",
-    "VibeCaption AI",
-    "ReSolve"
+    "Л. Олена - WhatToEat",
+    "I. Валерiя - EasyTiming",
+    "С. Михайло, М. Нiколоз - Solenne",
+    "В. Марiя, K. Єлізавєта - BooksDream",
+    "М. Аріна - Your profession",
+    "М. Марiя - FutureLab AI",
+    "М. Катерина - CinemaClub",
+    "К. Ярослав - Smart Photo Editor"
 ]
 
 NOMINATIONS = [
